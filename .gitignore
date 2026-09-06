@@ -1,6 +1,6 @@
 # Virtual environment
 venv/
-
+log/
 # Generated figures and plots
 figures/
 

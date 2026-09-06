@@ -63,7 +63,3 @@ Trained models and scalers are saved under the `saved_models*` directories and t
 ## Citation
 
 This code accompanies the manuscript "A hierarchical machine learning framework for predicting dissolved oxygen dynamics from optical emission spectra of an argon atmospheric pressure plasma jet." Please cite the paper if you use this repository.
-
-## License
-
-Add a license appropriate to your publication policy (e.g., MIT, Apache 2.0, etc.)."# plasma-jet-spectral-ml" 

@@ -1,0 +1,32 @@
+{
+    "block_number": 810,
+    "r2_train": 0.8348526426941384,
+    "r2_test": 0.49182198695352164,
+    "best_features_selected": 4,
+    "best_features": [
+        "frequency",
+        "1068.737692340001",
+        "1068.6775740378423",
+        "1068.436837131493"
+    ],
+    "xgb_params": {
+        "n_estimators": 150,
+        "learning_rate": 0.03,
+        "max_depth": 6,
+        "subsample": 0.8,
+        "colsample_bytree": 0.8,
+        "reg_alpha": 0.1,
+        "reg_lambda": 1.0,
+        "random_state": 4,
+        "min_child_weight": 0.4,
+        "n_jobs": -1
+    },
+    "block_size": 10,
+    "test_size_ml": 0.1,
+    "random_state_tr": 4,
+    "is_norm": false,
+    "save_r2_train_threshold": 0.0,
+    "save_r2_test_threshold": 0.0,
+    "target_name": "Max_Oxygen_LifeTime",
+    "frequency_name": "frequency"
+}

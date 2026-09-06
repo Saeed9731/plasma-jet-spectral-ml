@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Generated figures and plots
+figures/
+
+# Word document output
+Feature_Importance_Max_Oxygen_LifeTime.docx
+
+# Final dataset
+# final_data-sari.csv

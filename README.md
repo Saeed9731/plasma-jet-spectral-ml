@@ -12,6 +12,14 @@ Raw spectral data is extremely high-dimensional (thousands of wavelength variabl
 - Robust model evaluation using repeated cross-validation and an independent hold-out test set
 - Interpretability of the final model via SHAP analysis
 
+## Run
+
+```bash
+python -m venv venv
+source venv/bin/activate        
+# windows: venv\Scripts\activate
+pip install -r requirements.txt
+```
 ## Repository Structure
 
 ```

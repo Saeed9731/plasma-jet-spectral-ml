@@ -5,7 +5,7 @@ log/
 figures/
 
 # Word document output
-Feature_Importance_Max_Oxygen_LifeTime.docx
-
+*.docx
+*.xlsx
 # Final dataset
 # final_data-sari.csv

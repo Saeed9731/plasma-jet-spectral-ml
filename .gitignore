@@ -3,7 +3,7 @@ venv/
 log/
 # Generated figures and plots
 figures/
-
+figures_species/
 # Word document output
 *.docx
 *.xlsx
